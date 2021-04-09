@@ -14,4 +14,4 @@
     - Краткий почасовой прогноз погоды до конца дня
 
 # Макет приложения
-![Макет](https://github.com/Polyak237/Meteogid/blob/a8c6cbeaf24660d38d2214403f76a9fdf16c0f51/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
+![Макет](https://github.com/Polyak237/Meteogid/blob/b566f93faf363830faaa18ae2392e5c1588b3082/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
